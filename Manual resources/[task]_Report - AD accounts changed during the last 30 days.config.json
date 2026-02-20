@@ -1,0 +1,4 @@
+{
+    "name":  "Report - AD accounts changed during the last 30 days",
+    "runInCloud":  false
+}
