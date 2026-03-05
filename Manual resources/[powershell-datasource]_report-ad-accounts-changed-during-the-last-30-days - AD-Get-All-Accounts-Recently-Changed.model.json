@@ -1,14 +1,6 @@
 [
     {
-        "key":  "Title",
-        "type":  0
-    },
-    {
-        "key":  "Department",
-        "type":  0
-    },
-    {
-        "key":  "whenChanged",
+        "key":  "CanonicalName",
         "type":  0
     },
     {
@@ -16,11 +8,11 @@
         "type":  0
     },
     {
-        "key":  "Displayname",
+        "key":  "Department",
         "type":  0
     },
     {
-        "key":  "SamAccountName",
+        "key":  "Displayname",
         "type":  0
     },
     {
@@ -28,7 +20,11 @@
         "type":  0
     },
     {
-        "key":  "CanonicalName",
+        "key":  "whenChanged",
+        "type":  0
+    },
+    {
+        "key":  "Title",
         "type":  0
     }
 ]

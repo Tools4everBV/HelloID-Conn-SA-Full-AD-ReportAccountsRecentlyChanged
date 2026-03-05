@@ -1,0 +1,4 @@
+{
+    "name":  "report-ad-accounts-changed-during-the-last-30-days | AD-Get-All-Accounts-Recently-Changed",
+    "runInCloud":  false
+}
